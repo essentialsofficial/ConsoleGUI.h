@@ -1,2 +1,2 @@
 # ConsoleGUI.h
-Simple .h for creating Console GUI
+Simple .h for creating Console GUI.
